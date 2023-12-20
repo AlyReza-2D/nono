@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Samin-Bold;
+    src:url(/font/bsamin/Samim-Bold.eot) format(eot),    
+          url(/font/bsamin/Samim-Bold.woff) format(woff),
+          url(/font/bsamin/Samim-Bold.ttf) format(truetype),
+          url(/font/bsamin/Samim-Bold.woff2) format(woff2);
+        }
+@font-face {
+    font-family: Shabnam-Bold;
+    src: url(/font/bsahbnam/Shabnam-Bold.eot) format(eot),
+    url(/font/bsahbnam/Shabnam-Bold.ttf) format(ttf),
+    url(/font/bsahbnam/Shabnam-Bold.woff) format(woff),
+    url(/font/bsahbnam/Shabnam-Bold.woff2) format(woff2);}
+p{
+    font-family: Samin-Bold;
+    line-height: 40px;
+    color: purple;
+}
+h1{
+    font-family: Shabnam-bold;
+    font-weight: bold;
+    background-color: blue;
+    color: azure;
+    text-align: center;
+}
+img.استخوان{
+    height: 200px;
+
+}
+body {
+    background-color: black;
+}
